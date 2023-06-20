@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/svgexample/static/css/main.073c9b0a.css",
+    "main.js": "/svgexample/static/js/main.c5da1fcd.js",
+    "index.html": "/svgexample/index.html",
+    "main.073c9b0a.css.map": "/svgexample/static/css/main.073c9b0a.css.map",
+    "main.c5da1fcd.js.map": "/svgexample/static/js/main.c5da1fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c5da1fcd.js"
+  ]
+}
